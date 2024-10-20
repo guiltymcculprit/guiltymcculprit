@@ -6,6 +6,7 @@
 - 😄 Pronouns: inno/cent
 - ⚡ Fun fact: i am innocent
 
+![Not Guilty](./image.jpg)
 
 <!---
 guiltymcculprit/guiltymcculprit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
